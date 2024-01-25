@@ -1,0 +1,241 @@
+id,nome,bandeira
+1,Afeganistão,🇦🇫
+2,Ilhas Aland,🇦🇽
+3,Albânia,🇦🇱
+4,Argélia,🇩🇿
+5,Samoa Americana,🇦🇸
+6,Andorra,🇦🇩
+7,Angola,🇦🇴
+8,Anguilla,🇦🇮
+9,Antárctica,🇦🇶
+10,Antígua e Barbuda,🇦🇬
+11,Argentina,🇦🇷
+12,Armênia,🇦🇲
+13,Aruba,🇦🇼
+14,Austrália,🇦🇺
+15,Áustria,🇦🇹
+16,Azerbaijão,🇦🇿
+18,Barém,🇧🇭
+19,Bangladesh,🇧🇩
+20,Barbados,🇧🇧
+21,Bielorrússia,🇧🇾
+22,Bélgica,🇧🇪
+23,Belize,🇧🇿
+24,Benim,🇧🇯
+25,Bermudas,🇧🇲
+26,Butão,🇧🇹
+27,Bolívia,🇧🇴
+155,Países Baixos Caribenhos,🇧🇶
+28,Bósnia e Herzegovina,🇧🇦
+29,Botswana,🇧🇼
+31,Brasil,🇧🇷
+32,Território Britânico do Oceano Índico,🇮🇴
+33,Brunei,🇧🇳
+34,Bulgária,🇧🇬
+35,Burkina Faso,🇧🇫
+36,Burundi,🇧🇮
+37,Camboja,🇰🇭
+38,Camarões,🇨🇲
+39,Canadá,🇨🇦
+40,Cabo Verde,🇨🇻
+41,Ilhas Caimão,🇰🇾
+42,República Centro-Africana,🇨🇫
+43,Chade,🇹🇩
+44,Chile,🇨🇱
+45,China,🇨🇳
+46,Ilha do Natal,🇨🇽
+47,Ilhas Cocos,🇨🇨
+48,Colômbia,🇨🇴
+49,Comores,🇰🇲
+50,Congo,🇨🇬
+52,Ilhas Cook,🇨🇰
+53,Costa Rica,🇨🇷
+54,Costa do Marfim,🇨🇮
+55,Croácia,🇭🇷
+56,Cuba,🇨🇺
+249,Curaçao,🇨🇼
+57,Chipre,🇨🇾
+58,República Tcheca,🇨🇿
+51,República Democrática do Congo,🇨🇩
+59,Dinamarca,🇩🇰
+60,Djibouti,🇩🇯
+61,Dominica,🇩🇲
+62,República Dominicana,🇩🇴
+63,Timor-Leste,🇹🇱
+64,Equador,🇪🇨
+65,Egipto,🇪🇬
+66,El Salvador,🇸🇻
+67,Guiné Equatorial,🇬🇶
+68,Eritreia,🇪🇷
+69,Estónia,🇪🇪
+70,Etiópia,🇪🇹
+71,Ilhas Malvinas,🇫🇰
+72,Ilhas Faroé,🇫🇴
+73,Fiji,🇫🇯
+74,Finlândia,🇫🇮
+75,França,🇫🇷
+76,Guiana Francesa,🇬🇫
+77,Polinésia Francesa,🇵🇫
+79,Gabão,🇬🇦
+80,Gâmbia,🇬🇲
+81,Geórgia,🇬🇪
+82,Alemanha,🇩🇪
+83,Gana,🇬🇭
+84,Gibraltar,🇬🇮
+85,Grécia,🇬🇷
+86,Groenlândia,🇬🇱
+87,Granada,🇬🇩
+88,Guadeloupe,🇬🇵
+89,Guam,🇬🇺
+90,Guatemala,🇬🇹
+91,Guernsey,🇬🇬
+92,Guiné,🇬🇳
+93,Guiné-Bissau,🇬🇼
+94,Guiana,🇬🇾
+95,Haiti,🇭🇹
+97,Honduras,🇭🇳
+98,Hong Kong.,🇭🇰
+99,Hungria,🇭🇺
+100,Islândia,🇮🇸
+101,Índia,🇮🇳
+102,Indonésia,🇮🇩
+103,Irã,🇮🇷
+104,Iraque,🇮🇶
+105,Irlanda,🇮🇪
+106,Israel,🇮🇱
+107,Itália,🇮🇹
+108,Jamaica,🇯🇲
+109,Japão,🇯🇵
+110,Jersey,🇯🇪
+111,Jordânia,🇯🇴
+112,Cazaquistão,🇰🇿
+113,Quênia,🇰🇪
+114,Quiribati,🇰🇮
+248,Kosovo,🇽🇰
+117,Kuwait,🇰🇼
+118,Quirguistão,🇰🇬
+119,Laos,🇱🇦
+120,Letônia,🇱🇻
+121,Líbano,🇱🇧
+122,Lesoto,🇱🇸
+123,Libéria,🇱🇷
+124,Líbia,🇱🇾
+125,Liechtenstein,🇱🇮
+126,Lituânia,🇱🇹
+127,Luxemburgo,🇱🇺
+128,Macau.,🇲🇴
+130,Madagascar,🇲🇬
+131,Malawi,🇲🇼
+132,Malásia,🇲🇾
+133,Maldivas,🇲🇻
+134,Mali,🇲🇱
+135,Malta,🇲🇹
+136,Ilha de Man,🇮🇲
+137,Ilhas Marshall,🇲🇭
+138,Martinica,🇲🇶
+139,Mauritânia,🇲🇷
+140,Maurícia,🇲🇺
+141,Mayotte,🇾🇹
+142,México,🇲🇽
+143,Micronésia,🇫🇲
+144,Moldova,🇲🇩
+145,Mônaco,🇲🇨
+146,Mongólia,🇲🇳
+147,Montenegro,🇲🇪
+148,Montserrat,🇲🇸
+149,Marrocos,🇲🇦
+150,Moçambique,🇲🇿
+151,Myanmar,🇲🇲
+152,Namíbia,🇳🇦
+153,Nauru,🇳🇷
+154,Nepal,🇳🇵
+156,Holanda,🇳🇱
+157,Nova Caledônia,🇳🇨
+158,Nova Zelândia,🇳🇿
+159,Nicarágua,🇳🇮
+160,Níger,🇳🇪
+161,Nigéria,🇳🇬
+162,Niue,🇳🇺
+163,Ilha Norfolk,🇳🇫
+115,Coréia do Norte,🇰🇵
+129,Macedônia do Norte,🇲🇰
+164,Ilhas Marianas do Norte,🇲🇵
+165,Noruega,🇳🇴
+166,Omã,🇴🇲
+167,Paquistão,🇵🇰
+168,Palau,🇵🇼
+169,Palestina,🇵🇸
+170,Panamá,🇵🇦
+171,Papua Nova Guiné,🇵🇬
+172,Paraguai,🇵🇾
+173,Peru,🇵🇪
+174,Filipinas,🇵🇭
+175,Ilha Pitcairn,🇵🇳
+176,Polônia,🇵🇱
+177,Portugal,🇵🇹
+178,Porto Rico,🇵🇷
+179,Catar,🇶🇦
+181,Romênia,🇷🇴
+182,Rússia,🇷🇺
+183,Ruanda,🇷🇼
+184,Santa Helena,🇸🇭
+185,São Cristóvão e Névis,🇰🇳
+186,Santa Lúcia,🇱🇨
+188,São Vicente e Granadinas,🇻🇨
+190,Ilha de São Martinho,🇲🇫
+191,Samoa,🇼🇸
+192,San Marino,🇸🇲
+193,São Tomé e Príncipe,🇸🇹
+194,Arábia Saudita,🇸🇦
+195,Senegal,🇸🇳
+196,Sérvia,🇷🇸
+197,Seychelles,🇸🇨
+198,Serra Leoa,🇸🇱
+199,Singapura,🇸🇬
+250,São Martinho,🇸🇽
+200,Eslováquia,🇸🇰
+201,Eslovênia,🇸🇮
+202,Ilhas Salomão,🇸🇧
+203,Somália,🇸🇴
+204,África do Sul,🇿🇦
+116,Coreia do Sul,🇰🇷
+206,Sudão do Sul,🇸🇸
+207,Espanha,🇪🇸
+208,Sri Lanka,🇱🇰
+209,Sudão,🇸🇩
+210,Suriname,🇸🇷
+212,Essuatíni,🇸🇿
+213,Suécia,🇸🇪
+214,Suíça,🇨🇭
+215,Síria,🇸🇾
+216,Taiwan,🇹🇼
+217,Tajiquistão,🇹🇯
+218,Tanzânia,🇹🇿
+219,Tailândia,🇹🇭
+17,Bahamas,🇧🇸
+220,Togo,🇹🇬
+221,Tokelau,🇹🇰
+222,Tonga,🇹🇴
+223,Trindade e Tobago,🇹🇹
+224,Tunísia,🇹🇳
+225,Turquia,🇹🇷
+226,Turquemenistão,🇹🇲
+228,Tuvalu,🇹🇻
+229,Uganda,🇺🇬
+230,Ucrânia,🇺🇦
+231,Emirados Árabes Unidos,🇦🇪
+232,Reino Unido,🇬🇧
+233,Estados Unidos,🇺🇸
+235,Uruguai,🇺🇾
+236,Uzbequistão,🇺🇿
+237,Vanuatu,🇻🇺
+238,Vaticano,🇻🇦
+239,Venezuela,🇻🇪
+240,Vietnã,🇻🇳
+241,Ilhas Virgens Britânicas,🇻🇬
+242,Ilhas Virgens Americanas,🇻🇮
+243,Wallis e Futuna,🇼🇫
+244,Saara Ocidental,🇪🇭
+245,Iêmen,🇾🇪
+246,Zâmbia,🇿🇲
+247,Zimbábue,🇿🇼🇸🇯
