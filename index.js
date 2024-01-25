@@ -59,10 +59,24 @@ app.post("/submit", (req, res) => {
   });
 });
 
+let lastRandomIndex = -1;
+
 async function nextQuestion() {
-  const randomCountry = quiz[Math.floor(Math.random() * quiz.length)];
+  const randomIndex = getRandomIndex();
+  const randomCountry = quiz[randomIndex];
 
   currentQuestion = randomCountry;
+}
+
+function getRandomIndex() {
+  let randomIndex;
+
+  do {
+    randomIndex = Math.floor(Math.random() * quiz.length);
+  } while (randomIndex === lastRandomIndex);
+
+  lastRandomIndex = randomIndex;
+  return randomIndex;
 }
 
 app.listen(port, () => {
